@@ -1,6 +1,6 @@
 """
 News Search Agent for critical minerals news discovery.
-idhi version 2
+branch2 code is modified
 """
 
 from textwrap import dedent
