@@ -1,6 +1,7 @@
 """
 News Search Agent for critical minerals news discovery.
 branch2 code is modified
+additional to this pavan modified code is this
 """
 
 from textwrap import dedent
