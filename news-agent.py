@@ -1,5 +1,6 @@
 """
 News Search Agent for critical minerals news discovery.
+idhi version 2
 """
 
 from textwrap import dedent
